@@ -1,0 +1,55 @@
+body{
+background: #FFDEA9;
+}
+aside{
+background: linear-gradient(160deg, #FAD7A0, #C19A6B);
+}
+.rounded{
+border-radius:50%;
+padding: 2px;
+border: 2px;
+background: #17202A;
+}
+.edged{
+border-radius:2%;
+padding: 3px;
+border: 3px solid-transparent;
+background: #17202A;
+}
+p{
+font-size: 24;
+}
+.yawa{
+margin: 0;
+position: relative;
+top: 21px;
+left: 7px;
+}
+.stress{
+margin: 0;
+position: relative;
+top: 24%;
+left: 1%;
+}
+.hello{
+margin: 0;
+position:relative;
+top: 71%;
+}
+.meow{
+position: relative;
+}
+.gender{
+position: relative;
+bottom: 110%
+}
+aside {
+  width: 100%;
+  padding-left: 15px;
+  margin-left:10px;
+  margin-bottom:10px;
+  float: right;
+  font-style: ;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
